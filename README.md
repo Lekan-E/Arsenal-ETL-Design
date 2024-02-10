@@ -9,7 +9,9 @@ The goal of this ETL project is to use Python and SQL to create a database that 
 Tables extracted: 
 
 ## Action
-The following libraries and tools were used to achieve the ETL Process:
+I aimed to build a databse that contained the following data about Arsenal Football Club : Player Statistics (Shooting, Passing, Defending, Goalkeeping), Transfer History, Season Ratings, Player Wages, League Standing and Player's Personal Information. <br/>
+
+To extract data, I used the following libraries and tools were used to achieve the ETL Process: 
 
 ### WEBSCRAPING
 The main way of collecting the data was through web scraping from various sports websites. To achieve this, I worked solely with Python and applied the following webscraping techniques and tools below:

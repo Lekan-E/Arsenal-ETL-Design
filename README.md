@@ -13,14 +13,14 @@ I aimed to build a databse that contained the following data about Arsenal Footb
 
 To extract data, I used the following libraries and tools were used to achieve the ETL Process: 
 
-### WEBSCRAPING
+### EXTRACT - Webscraping 
 The main way of collecting the data was through web scraping from various sports websites. To achieve this, I worked solely with Python and applied the following webscraping techniques and tools below:
 1. Selenium - Selenium creates a seperate web driver and then scraped based on different elements. 
 2. Requests - Requests makes HTTP requests to the website APIs, then we fetch the HTML contents needed.
 3. Pandas - Use Pandas read_html, for most tabluar data on a website.
 4. BeautifulSoup - BeautifulSoup was used for parsing HTML documents.
 
-### DATA CLEANING 
+### TRANSFORM - Data Cleaning 
 This process involved cleaning of  raw scraped data by using various string methods and filtering out for suitable data.
  <br/>
 A major tool also used was the Python Pandas library. Pandas - Convert raw data into tabular dataframe, rename columns to meet database naming standards and save tables as a csv file. <br/>
@@ -29,7 +29,7 @@ Here's a sample function used to scrape one of our multiple data.
 
 ![Alt Text](https://github.com/Lekan-E/Arsenal-ETL-Design/blob/main/Miscell/League%20Table%20Function.png)
 
-### DATABASE MANAGEMENT
+### LOADING - Database Management
 After extracting and transforming all the required data, I wrote SQL queries to load data into the MySQL database.
 This process invloved the use of JOINs and CTEs to pull data from different tables. Below is a sample query where I use CTEs to create a table from multiple tables in SQL: 
 <br/>

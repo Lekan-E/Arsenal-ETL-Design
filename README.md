@@ -2,7 +2,8 @@
 ### An ETL design project using Python to extract and SQL to store team and players information for Arsenal Football Club.
 
 ## Situation
-As an aspiring Data Analyst, I decided to work on an ETL project on my favourite sport team, Arsenal Football Club. The aim of this project was to gather/extract 5 seasons/years worth of data from various websites through webscraping, then clean and write SQL queries to load players and team data into my database. Now with the accesible data, draw comparison between various players, highlight notable team strengths and weaknesses, areas of improvments, and build visualizations to track the team and players performance. <br/>
+As an aspiring Data Analyst, I decided to work on an ETL project on my favourite sport team, Arsenal Football Club. The aim of this project was to gather/extract 5 seasons/years worth of data from various websites through webscraping, then clean and write SQL queries to load players and team data into my database. Now with the accesible data, draw comparison between various players, highlight notable team strengths and weaknesses, areas of improvments, and build visualizations to track the team and players performance. 
+<br/>
 Here are the following data I am interested in extracting:
 * League Standing
 * Season Rating

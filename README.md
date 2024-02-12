@@ -5,8 +5,15 @@
 As an aspiring Data Analyst, I decided to work on an ETL project on my favourite sport team, Arsenal Football Club. The aim of this project was to gather/extract 5 seasons/years worth of data from various websites through webscraping, then clean and write SQL queries to load players and team data into my database. Now with the accesible data, draw comparison between various players, highlight notable team strengths and weaknesses, areas of improvments, and build visualizations to track the team and players performance.
 
 ## Task
-The goal of this ETL project is to use Python and SQL to create a database that stores data collected and updated on a week-to-week basis from various websites via webscraping, clean and aggregate the data and load the data into SQL database, then write queries to gain valuable insights, analysis and build visualization in Tableau.
-Tables extracted: 
+The goal of this ETL project is to use Python and SQL to create a database that stores data collected and updates on a week-to-week basis from various websites via webscraping, then clean and aggregate the data then load the data into MySQL database, which we then use to write queries to gain valuable insights, analysis and build visualization in Tableau.
+<br/>
+Here are the following data I am interested in extracting:
+* League Standing
+* Season Rating
+* Player and Club Statistics
+* Players Information (Full Name, Nationality and Date of Birth)
+* Transfers and
+* Player's Wages
 
 ## Action
 I aimed to build a databse that contained the following data about Arsenal Football Club : Player Statistics (Shooting, Passing, Defending, Goalkeeping), Transfer History, Season Ratings, Player Wages, League Standing and Player's Personal Information. <br/>

@@ -2,9 +2,13 @@
 ### An ETL design project using Python to extract and SQL to store team and players information for Arsenal Football Club.
 
 ## Situation
-As an aspiring Data Analyst, I decided to work on an ETL project on my favourite sport team, Arsenal Football Club. The aim of this project was to gather/extract 5 seasons/years worth of data from various websites through webscraping, then clean and write SQL queries to load players and team data into my database. Now with the accesible data, draw comparison between various players, highlight notable team strengths and weaknesses, areas of improvments, and build visualizations to track the team and players performance. 
+As an aspiring Data Analyst, I decided to work on an ETL project on my favourite sport team, Arsenal Football Club. The aim of this project was to gather/extract 5 seasons/years worth of historical data from various websites through webscraping, then clean and write SQL queries to load players and team data into my database.
 <br/>
-Here are the following data I am interested in extracting:
+Now with the accesible data, draw comparison between various players, highlight notable team strengths and weaknesses, areas of improvments, and build visualizations to track the team and players performance. 
+
+## Task/Key Objectives
+The goal of this ETL project is to use Python and SQL to create a database that stores data collected and updates on a week-to-week basis from various websites via webscraping, then clean and aggregate the data then load the data into MySQL database, which we then use to write queries to gain valuable insights, analysis and build visualization in Tableau.
+1. Data Extraction - Webscraping
 * League Standing
 * Season Rating
 * Player and Club Statistics
@@ -12,8 +16,17 @@ Here are the following data I am interested in extracting:
 * Transfers and
 * Player's Wages
 
-## Task
-The goal of this ETL project is to use Python and SQL to create a database that stores data collected and updates on a week-to-week basis from various websites via webscraping, then clean and aggregate the data then load the data into MySQL database, which we then use to write queries to gain valuable insights, analysis and build visualization in Tableau.
+2. Data Transformation
+* Python Pandas to clean and preapre data for storage
+
+3. Data Loading
+* Create a SQL database
+(https://github.com/Lekan-E/Arsenal-ETL-Design/blob/main/Miscell/drawSQL-arsenaletl-export-2024-02-18.png)
+<br/>
+
+4. Data Visualization
+* Create multiple dashboards to display current player and team stats
+
 <br/>
 
 ## Action

@@ -1,0 +1,175 @@
+Player,Position,Age,Status,Club,League,season_name,TransferType,Amount
+Alex Iwobi,Attacking Midfield,23,Out,Everton,Premier League,2019-2020,Transfer,30400000
+Laurent Koscielny,Centre-Back,33,Out,G. Bordeaux,Ligue 1,2019-2020,Transfer,5000000
+Henrikh Mkhitaryan,Central Midfield,30,Out,AS Roma,Serie A,2019-2020,Loan,3100000
+Takuma Asano,Right Winger,24,Out,Partizan,Super liga Srbije,2019-2020,Transfer,1000000
+Aaron Ramsey,Central Midfield,28,Out,Juventus,Serie A,2019-2020,Transfer,0
+Stephan Lichtsteiner,Right-Back,35,Out,FC Augsburg,Bundesliga,2019-2020,Transfer,0
+Mohamed Elneny,Defensive Midfield,27,Out,Besiktas,Süper Lig,2019-2020,Loan,0
+Konstantinos Mavropanos,Centre-Back,22,Out,1.FC Nuremberg,2. Bundesliga,2019-2020,Loan,0
+Dejan Iliev,Goalkeeper,24,Out,SKF Sered,Nike Liga,2019-2020,Loan,0
+Denis Suárez,Attacking Midfield,25,Out,Barcelona,LaLiga,2019-2020,End of loan,0
+Krystian Bielik,Defensive Midfield,21,Out,Derby,Championship,2019-2020,Transfer,8200000
+David Ospina,Goalkeeper,30,Out,SSC Napoli,Serie A,2019-2020,Transfer,3500000
+Carl Jenkinson,Right-Back,27,Out,Nottm Forest,Championship,2019-2020,Transfer,2200000
+Nacho Monreal,Left-Back,33,Out,Real Sociedad,LaLiga,2019-2020,Transfer,250000
+Danny Welbeck,Centre-Forward,28,Out,Watford,Premier League,2019-2020,Transfer,0
+William Saliba,Centre-Back,18,Out,Saint-Étienne,Ligue 1,2019-2020,Loan,0
+Eddie Nketiah,Centre-Forward,20,Out,Leeds,Championship,2019-2020,Loan,0
+Dejan Iliev,Goalkeeper,24,Out,Jagiellonia,Ekstraklasa,2019-2020,Loan,0
+Petr Cech,Goalkeeper,37,Out,Retired,-,2019-2020,-,0
+Nicolas Pépé,Right Winger,24,In,LOSC Lille,Ligue 1,2019-2020,Transfer,80000000
+Kieran Tierney,Left-Back,22,In,Celtic,Premiership,2019-2020,Transfer,27000000
+Pablo Marí,Centre-Back,26,In,Flamengo,Série A,2019-2020,Loan,8000000
+Dani Ceballos,Central Midfield,22,In,Real Madrid,LaLiga,2019-2020,Loan,0
+Reiss Nelson,Right Winger,19,In,Arsenal U21,Premier League 2,2019-2020,-,0
+Bukayo Saka,Right Winger,17,In,Arsenal U21,Premier League 2,2019-2020,-,0
+David Ospina,Goalkeeper,30,In,SSC Napoli,Serie A,2019-2020,End of loan,0
+Takuma Asano,Right Winger,24,In,Hannover 96,2. Bundesliga,2019-2020,End of loan,0
+William Saliba,Centre-Back,18,In,Saint-Étienne,Ligue 1,2019-2020,Transfer,30000000
+David Luiz,Centre-Back,32,In,Chelsea,Premier League,2019-2020,Transfer,8700000
+Gabriel Martinelli,Left Winger,18,In,Ituano,Brazil,2019-2020,Transfer,7100000
+Cédric Soares,Right-Back,28,In,Southampton,Premier League,2019-2020,Loan,0
+Joe Willock,Central Midfield,19,In,Arsenal U21,Premier League 2,2019-2020,-,0
+Eddie Nketiah,Centre-Forward,20,In,Leeds,Championship,2019-2020,End of loan,0
+Konstantinos Mavropanos,Centre-Back,22,In,1.FC Nuremberg,2. Bundesliga,2019-2020,End of loan,0
+Dejan Iliev,Goalkeeper,24,In,SKF Sered,Nike Liga,2019-2020,End of loan,0
+Emiliano Martínez,Goalkeeper,28,Out,Aston Villa,Premier League,2020-2021,Transfer,17400000
+Konstantinos Mavropanos,Centre-Back,22,Out,VfB Stuttgart,Bundesliga,2020-2021,Loan,750000
+Shkodran Mustafi,Centre-Back,28,Out,FC Schalke 04,Bundesliga,2020-2021,Transfer,0
+Sokratis Papastathopoulos,Centre-Back,32,Out,Olympiacos,Super League 1,2020-2021,Transfer,0
+Lucas Torreira,Defensive Midfield,24,Out,Atlético Madrid,LaLiga,2020-2021,Loan,0
+William Saliba,Centre-Back,19,Out,OGC Nice,Ligue 1,2020-2021,Loan,0
+Sead Kolasinac,Centre-Back,27,Out,FC Schalke 04,Bundesliga,2020-2021,Loan,0
+Cédric Soares,Right-Back,28,Out,Southampton,Premier League,2020-2021,End of loan,0
+Mattéo Guendouzi,Central Midfield,21,Out,Hertha BSC,Bundesliga,2020-2021,Loan,1000000
+Henrikh Mkhitaryan,Central Midfield,31,Out,AS Roma,Serie A,2020-2021,Transfer,0
+Mesut Özil,Attacking Midfield,32,Out,Fenerbahce,Süper Lig,2020-2021,Transfer,0
+Matt Macey,Goalkeeper,26,Out,Hibernian FC,Premiership,2020-2021,Transfer,0
+Ainsley Maitland-Niles,Central Midfield,23,Out,West Brom,Premier League,2020-2021,Loan,0
+Joe Willock,Central Midfield,21,Out,Newcastle,Premier League,2020-2021,Loan,0
+Dejan Iliev,Goalkeeper,25,Out,Shrewsbury,League One,2020-2021,Loan,0
+Pablo Marí,Centre-Back,26,Out,Flamengo,Série A,2020-2021,End of loan,0
+Thomas Partey,Defensive Midfield,27,In,Atlético Madrid,LaLiga,2020-2021,Transfer,50000000
+Pablo Marí,Centre-Back,26,In,Flamengo,Série A,2020-2021,Transfer,6000000
+Rúnar Alex Rúnarsson,Goalkeeper,25,In,Dijon,Ligue 1,2020-2021,Transfer,2000000
+Cédric Soares,Right-Back,28,In,Southampton,Premier League,2020-2021,Transfer,0
+Emile Smith Rowe,Attacking Midfield,20,In,Arsenal U21,Premier League 2,2020-2021,-,0
+Henrikh Mkhitaryan,Central Midfield,31,In,AS Roma,Serie A,2020-2021,End of loan,0
+Joe Willock,Central Midfield,21,In,Newcastle,Premier League,2020-2021,End of loan,0
+Dejan Iliev,Goalkeeper,25,In,Shrewsbury,League One,2020-2021,End of loan,0
+Gabriel Magalhães,Centre-Back,22,In,LOSC Lille,Ligue 1,2020-2021,Transfer,26000000
+Martin Ødegaard,Attacking Midfield,22,In,Real Madrid,LaLiga,2020-2021,Loan,2000000
+Willian,Left Winger,32,In,Chelsea,Premier League,2020-2021,Transfer,0
+Mathew Ryan,Goalkeeper,28,In,Brighton,Premier League,2020-2021,Loan,0
+William Saliba,Centre-Back,19,In,Saint-Étienne,Ligue 1,2020-2021,End of loan,0
+Ainsley Maitland-Niles,Central Midfield,23,In,West Brom,Premier League,2020-2021,End of loan,0
+Mohamed Elneny,Defensive Midfield,28,In,Besiktas,Süper Lig,2020-2021,End of loan,0
+Dejan Iliev,Goalkeeper,25,In,Jagiellonia,Ekstraklasa,2020-2021,End of loan,0
+Joe Willock,Central Midfield,21,Out,Newcastle,Premier League,2021-2022,Transfer,29400000
+Ainsley Maitland-Niles,Central Midfield,24,Out,AS Roma,Serie A,2021-2022,Loan,500000
+Calum Chambers,Right-Back,27,Out,Aston Villa,Premier League,2021-2022,Transfer,0
+David Luiz,Centre-Back,34,Out,Flamengo,Série A,2021-2022,Transfer,0
+Dejan Iliev,Goalkeeper,26,Out,AS Trencin,Nike Liga,2021-2022,Transfer,0
+Mattéo Guendouzi,Central Midfield,22,Out,Marseille,Ligue 1,2021-2022,Loan,0
+Reiss Nelson,Right Winger,21,Out,Feyenoord,Eredivisie,2021-2022,Loan,0
+Auston Trusty,Centre-Back,23,Out,Colorado,MLS,2021-2022,Loan,0
+Dejan Iliev,Goalkeeper,26,Out,SKF Sered,Nike Liga,2021-2022,Loan,0
+Dani Ceballos,Central Midfield,24,Out,Real Madrid,LaLiga,2021-2022,End of loan,0
+Lucas Torreira,Defensive Midfield,25,Out,Fiorentina,Serie A,2021-2022,Loan,1500000
+Pierre-Emerick Aubameyang,Centre-Forward,32,Out,Barcelona,LaLiga,2021-2022,Transfer,0
+Willian,Left Winger,33,Out,Corinthians,Série A,2021-2022,Transfer,0
+Sead Kolasinac,Centre-Back,28,Out,Marseille,Ligue 1,2021-2022,Transfer,0
+Héctor Bellerín,Right-Back,26,Out,Real Betis,LaLiga,2021-2022,Loan,0
+William Saliba,Centre-Back,20,Out,Marseille,Ligue 1,2021-2022,Loan,0
+Pablo Marí,Centre-Back,28,Out,Udinese Calcio,Serie A,2021-2022,Loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,26,Out,OH Leuven,Jupiler Pro League,2021-2022,Loan,0
+Martin Ødegaard,Attacking Midfield,22,Out,Real Madrid,LaLiga,2021-2022,End of loan,0
+Mathew Ryan,Goalkeeper,29,Out,Brighton,Premier League,2021-2022,End of loan,0
+Ben White,Right-Back,23,In,Brighton,Premier League,2021-2022,Transfer,58500000
+Aaron Ramsdale,Goalkeeper,23,In,Sheff Utd,Championship,2021-2022,Transfer,28000000
+Albert Sambi Lokonga,Central Midfield,21,In,RSC Anderlecht,Jupiler Pro League,2021-2022,Transfer,17500000
+Auston Trusty,Centre-Back,23,In,Colorado,MLS,2021-2022,Transfer,1800000
+Lucas Torreira,Defensive Midfield,25,In,Atlético Madrid,LaLiga,2021-2022,End of loan,0
+William Saliba,Centre-Back,20,In,OGC Nice,Ligue 1,2021-2022,End of loan,0
+Dejan Iliev,Goalkeeper,26,In,SKF Sered,Nike Liga,2021-2022,End of loan,0
+Martin Ødegaard,Attacking Midfield,22,In,Real Madrid,LaLiga,2021-2022,Transfer,35000000
+Takehiro Tomiyasu,Right-Back,22,In,Bologna,Serie A,2021-2022,Transfer,18600000
+Nuno Tavares,Left-Back,21,In,Benfica,Liga Portugal,2021-2022,Transfer,8000000
+Arthur Okonkwo,Goalkeeper,19,In,Arsenal U21,Premier League 2,2021-2022,-,0
+Mattéo Guendouzi,Central Midfield,22,In,Hertha BSC,Bundesliga,2021-2022,End of loan,0
+Sead Kolasinac,Centre-Back,28,In,FC Schalke 04,2. Bundesliga,2021-2022,End of loan,0
+Mattéo Guendouzi,Central Midfield,23,Out,Marseille,Ligue 1,2022-2023,Transfer,11000000
+Bernd Leno,Goalkeeper,30,Out,Fulham,Premier League,2022-2023,Transfer,3600000
+Héctor Bellerín,Right-Back,27,Out,Barcelona,LaLiga,2022-2023,Transfer,0
+Nicolas Pépé,Right Winger,27,Out,OGC Nice,Ligue 1,2022-2023,Loan,0
+Nuno Tavares,Left-Back,22,Out,Marseille,Ligue 1,2022-2023,Loan,0
+Marquinhos,Right Winger,19,Out,Norwich,Championship,2022-2023,Loan,0
+Cédric Soares,Right-Back,31,Out,Fulham,Premier League,2022-2023,Loan,0
+Auston Trusty,Centre-Back,23,Out,Birmingham,Championship,2022-2023,Loan,0
+Arthur Okonkwo,Goalkeeper,20,Out,Crewe Alexandra,League Two,2022-2023,Loan,0
+Lucas Torreira,Defensive Midfield,26,Out,Galatasaray,Süper Lig,2022-2023,Transfer,6000000
+Konstantinos Mavropanos,Centre-Back,24,Out,VfB Stuttgart,Bundesliga,2022-2023,Transfer,3200000
+Alexandre Lacazette,Centre-Forward,31,Out,Olympique Lyon,Ligue 1,2022-2023,Transfer,0
+Albert Sambi Lokonga,Central Midfield,23,Out,Crystal Palace,Premier League,2022-2023,Loan,0
+Ainsley Maitland-Niles,Central Midfield,25,Out,Southampton,Premier League,2022-2023,Loan,0
+Pablo Marí,Centre-Back,28,Out,Monza,Serie A,2022-2023,Loan,0
+Folarin Balogun,Centre-Forward,21,Out,Stade Reims,Ligue 1,2022-2023,Loan,0
+Arthur Okonkwo,Goalkeeper,21,Out,Sturm Graz,Bundesliga,2022-2023,Loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,27,Out,Alanyaspor,Süper Lig,2022-2023,Loan,0
+Gabriel Jesus,Centre-Forward,25,In,Man City,Premier League,2022-2023,Transfer,52200000
+Fábio Vieira,Attacking Midfield,22,In,FC Porto,Liga Portugal,2022-2023,Transfer,35000000
+Leandro Trossard,Left Winger,28,In,Brighton,Premier League,2022-2023,Transfer,24000000
+Matt Turner,Goalkeeper,28,In,New England,MLS,2022-2023,Transfer,5900000
+Folarin Balogun,Centre-Forward,20,In,Arsenal U21,Premier League 2,2022-2023,-,0
+William Saliba,Centre-Back,21,In,Marseille,Ligue 1,2022-2023,End of loan,0
+Héctor Bellerín,Right-Back,27,In,Real Betis,LaLiga,2022-2023,End of loan,0
+Konstantinos Mavropanos,Centre-Back,24,In,VfB Stuttgart,Bundesliga,2022-2023,End of loan,0
+Marquinhos,Right Winger,20,In,Norwich,Championship,2022-2023,End of loan,0
+Auston Trusty,Centre-Back,24,In,Birmingham,Championship,2022-2023,End of loan,0
+Reiss Nelson,Right Winger,22,In,Feyenoord,Eredivisie,2022-2023,End of loan,0
+Auston Trusty,Centre-Back,23,In,Colorado,MLS,2022-2023,End of loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,27,In,OH Leuven,Jupiler Pro League,2022-2023,End of loan,0
+Oleksandr Zinchenko,Left-Back,25,In,Man City,Premier League,2022-2023,Transfer,35000000
+Jakub Kiwior,Centre-Back,22,In,Spezia Calcio,Serie A,2022-2023,Transfer,25000000
+Jorginho,Defensive Midfield,31,In,Chelsea,Premier League,2022-2023,Transfer,11300000
+Marquinhos,Right Winger,19,In,São Paulo,Série A,2022-2023,Transfer,3500000
+Karl Hein,Goalkeeper,20,In,Arsenal U21,Premier League 2,2022-2023,-,0
+Mattéo Guendouzi,Central Midfield,23,In,Marseille,Ligue 1,2022-2023,End of loan,0
+Lucas Torreira,Defensive Midfield,26,In,Fiorentina,Serie A,2022-2023,End of loan,0
+Albert Sambi Lokonga,Central Midfield,23,In,Crystal Palace,Premier League,2022-2023,End of loan,0
+Ainsley Maitland-Niles,Central Midfield,24,In,AS Roma,Serie A,2022-2023,End of loan,0
+Ainsley Maitland-Niles,Central Midfield,25,In,Southampton,Premier League,2022-2023,End of loan,0
+Pablo Marí,Centre-Back,28,In,Udinese Calcio,Serie A,2022-2023,End of loan,0
+Arthur Okonkwo,Goalkeeper,21,In,Crewe Alexandra,League Two,2022-2023,End of loan,0
+Folarin Balogun,Centre-Forward,22,Out,Monaco,Ligue 1,2023-2024,Transfer,30000000
+Matt Turner,Goalkeeper,29,Out,Nottm Forest,Premier League,2023-2024,Transfer,8150000
+Pablo Marí,Centre-Back,29,Out,Monza,Serie A,2023-2024,Transfer,4900000
+Rob Holding,Centre-Back,27,Out,Crystal Palace,Premier League,2023-2024,Transfer,1200000
+Marquinhos,Right Winger,20,Out,FC Nantes,Ligue 1,2023-2024,Loan,300000
+Ainsley Maitland-Niles,Central Midfield,25,Out,Olympique Lyon,Ligue 1,2023-2024,Transfer,0
+Albert Sambi Lokonga,Central Midfield,23,Out,Luton,Premier League,2023-2024,Loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,28,Out,Cardiff,Championship,2023-2024,Loan,0
+Granit Xhaka,Defensive Midfield,30,Out,B. Leverkusen,Bundesliga,2023-2024,Transfer,15000000
+Auston Trusty,Centre-Back,24,Out,Sheff Utd,Premier League,2023-2024,Transfer,5800000
+Kieran Tierney,Left-Back,26,Out,Real Sociedad,LaLiga,2023-2024,Loan,1400000
+Nuno Tavares,Left-Back,23,Out,Nottm Forest,Premier League,2023-2024,Loan,1150000
+Nicolas Pépé,Right Winger,28,Out,Trabzonspor,Süper Lig,2023-2024,Transfer,0
+Rúnar Alex Rúnarsson,Goalkeeper,28,Out,FC Copenhagen,Superliga,2023-2024,Transfer,0
+Arthur Okonkwo,Goalkeeper,21,Out,Wrexham,League Two,2023-2024,Loan,0
+Declan Rice,Defensive Midfield,24,In,West Ham,Premier League,2023-2024,Transfer,116600000
+Jurrien Timber,Centre-Back,22,In,Ajax,Eredivisie,2023-2024,Transfer,40000000
+Folarin Balogun,Centre-Forward,21,In,Stade Reims,Ligue 1,2023-2024,End of loan,0
+Nuno Tavares,Left-Back,23,In,Marseille,Ligue 1,2023-2024,End of loan,0
+Marquinhos,Right Winger,20,In,FC Nantes,Ligue 1,2023-2024,End of loan,0
+Cédric Soares,Right-Back,31,In,Fulham,Premier League,2023-2024,End of loan,0
+Arthur Okonkwo,Goalkeeper,22,In,Wrexham,League Two,2023-2024,End of loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,28,In,Cardiff,Championship,2023-2024,End of loan,0
+Kai Havertz,Attacking Midfield,24,In,Chelsea,Premier League,2023-2024,Transfer,75000000
+David Raya,Goalkeeper,27,In,Brentford,Premier League,2023-2024,Loan,3340000
+Nicolas Pépé,Right Winger,28,In,OGC Nice,Ligue 1,2023-2024,End of loan,0
+Albert Sambi Lokonga,Central Midfield,24,In,Luton,Premier League,2023-2024,End of loan,0
+Pablo Marí,Centre-Back,29,In,Monza,Serie A,2023-2024,End of loan,0
+Arthur Okonkwo,Goalkeeper,21,In,Sturm Graz,Bundesliga,2023-2024,End of loan,0
+Rúnar Alex Rúnarsson,Goalkeeper,28,In,Alanyaspor,Süper Lig,2023-2024,End of loan,0
+Charles Sagoe Jr,Left Winger,19,In,Swansea,Championship,2023-2024,End of loan,0

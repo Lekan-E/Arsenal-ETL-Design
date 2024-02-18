@@ -21,12 +21,12 @@ The goal of this ETL project is to use Python and SQL to create a database that 
 
 3. Data Loading
 * Create a SQL database
-(https://github.com/Lekan-E/Arsenal-ETL-Design/blob/main/Miscell/drawSQL-arsenaletl-export-2024-02-18.png)
+![Alt Text](https://github.com/Lekan-E/Arsenal-ETL-Design/blob/main/Miscell/drawSQL-arsenaletl-export-2024-02-18.png)
 <br/>
 
 4. Data Visualization
 * Create multiple dashboards to display current player and team stats
-
+![Alt Text](https://github.com/Lekan-E/Arsenal-ETL-Design/blob/main/Visualization/Dashboard%20Team.png)
 <br/>
 
 ## Action
@@ -64,7 +64,7 @@ Quantifiable results:
 * Built a database that handles incoming data with 26 individual tables.
 * Build a dashboard to track and monitor performance.
 
-## Reflection/ Improvement
+## Reflection
 Through this project, I learned the importance of designing a scalable and flexible database schema to accomodate incoming data. I also learned the importance of automating the ETL process to ensure data integrity and reduce the risk of errors of incoming data and lastly various webscraping techniques, using Python functions.
 
 ## Future improvements
